@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# VSCode
+.vscode/
+
+# Reports (si no querés subirlos)
+reports/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# OneDrive temp files
+~$*
+
+# Pytest cache
+.pytest_cache/
